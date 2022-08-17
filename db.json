@@ -1,0 +1,67 @@
+{
+  "itemsList": [
+    {
+      "itemName": "Mango",
+      "itemCategory": "Fruits",
+      "itemDateOfArrival": "2022-05-08T18:30:00.000Z",
+      "itemSource": "local",
+      "itemPrice": 50,
+      "comments": "per kg",
+      "id": 1
+    },
+    {
+      "itemName": "Cherry",
+      "itemCategory": "Fruits",
+      "itemDateOfArrival": "2022-05-10T18:30:00.000Z",
+      "itemSource": "imported",
+      "itemPrice": 64,
+      "comments": "per kg",
+      "id": 2
+    },
+    {
+      "itemName": "Cucumber",
+      "itemCategory": "Veggies",
+      "itemDateOfArrival": "2022-05-09T18:30:00.000Z",
+      "itemSource": "local",
+      "itemPrice": 14,
+      "comments": "per kg",
+      "id": 3
+    },
+    {
+      "itemName": "Yogurt",
+      "itemCategory": "Dairy",
+      "itemDateOfArrival": "2022-05-13T18:30:00.000Z",
+      "itemSource": "imported",
+      "itemPrice": 30,
+      "comments": "pp",
+      "id": 4
+    },
+    {
+      "itemName": "Brown bread",
+      "itemCategory": "Breads",
+      "itemDateOfArrival": "2022-05-17T18:30:00.000Z",
+      "itemSource": "local",
+      "itemPrice": 40,
+      "comments": "ppkg",
+      "id": 5
+    },
+    {
+      "itemName": "Banana",
+      "itemCategory": "Fruits",
+      "itemDateOfArrival": "2022-05-15T18:30:00.000Z",
+      "itemSource": "local",
+      "itemPrice": 20,
+      "comments": "per kg",
+      "id": 6
+    },
+    {
+      "itemName": "Carrots",
+      "itemCategory": "Veggies",
+      "itemDateOfArrival": "2022-05-18T18:30:00.000Z",
+      "itemSource": "local",
+      "itemPrice": 30,
+      "comments": "perkg",
+      "id": 8
+    }
+  ]
+}
